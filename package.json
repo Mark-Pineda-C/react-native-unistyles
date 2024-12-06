@@ -149,5 +149,6 @@
     "name": "TurboUnistyles",
     "type": "modules",
     "jsSrcsDir": "./src/specs/TurboUnistyles"
-  }
+  },
+  "private": true
 }
